@@ -39,7 +39,7 @@
             <h3>Malden Little League</h3>
             <div class="row">
                 <div class="col-sm-3">
-                    <a href="/images/MLLHomePage.jpg" target="_blank"><img class="img-responsive" src="/images/small/MLLHomePage.jpg" alt="Malden Little League Screenshot"></a>
+                    <a href="https://www.maldenlittleleague.org" target="_blank"><img class="img-responsive" src="/images/small/MLLHomePage.jpg" alt="Malden Little League Screenshot"></a>
                 </div>
                 <div class="col-sm-9">
                     <p>
@@ -49,7 +49,8 @@
                         email addresses.
                     </p>
                     <p>
-                        The site was originally developed as a proof of concept project for a class at Harvard Extension school, CSCI E15 - Dynamic Web Applications,
+                        The site was originally developed as a proof of concept project for a class at Harvard Extension school, <a href="http://dwa15.com">
+                        CSCI E15, Dynamic Web Applications</a>,
                         in the Fall of 2015.  I had the opportunity to be a Teaching Assistant for this course the following semester, Spring 2016.
                     </p>
                     <p>
@@ -60,15 +61,44 @@
             <h3>Content Management Systems</h3>
             <div class="row">
                 <div class="col-sm-3">
-
+                    <a href="http://andrewb.sgedu.site/wp/" target="_blank"><img class="img-responsive" src="/images/small/WordPress.jpg" alt="WordPress Site from DMGD E25"></a>
                 </div>
                 <div class="col-sm-9">
-
+                    <p>
+                        As part of the class <a href="http://www.extension.harvard.edu/academics/courses/introduction-web-content-management-systems-site-development/24048">
+                        DGMD E25, Introduction to Content Management Systems</a>, I created example sites using <a href="http://andrewb.sgedu.site/wp/">
+                        WordPress</a>, <a href="http://andrewb.sgedu.site/joomla/">Joomla</a>, and <a href="http://andrewb.sgedu.site/drupal8/">Drupal</a>.  I chose
+                        to continue to Little League theme, developing a site focused more on my son's particular team.
+                    </p>
+                    <p>
+                        The focus of the course was to develop the same site using the different CMS's, so of course they look very similar.  These sites are not actively
+                        maintained, so you may encounter some errors related to particular plugins.
+                    </p>
+                </div>
+            </div>
+            <h3>Biking Around Boston</h3>
+            <div class="row">
+                <div class="col-sm-3">
+                    <a href="http://cscie12.andrewbielecki.me" target="_blank"><img class="img-responsive" src="/images/small/Biking.jpg" alt="Biking Around Boston"></a>
+                </div>
+                <div class="col-sm-9">
+                    <p>
+                        Developed for the class <a href="http://www.extension.harvard.edu/academics/courses/fundamentals-website-development/15078">
+                        CSCI E12, Fundamentals of Website Development,</a> this site is just a proof of concept for a larger idea (most pages are inactive and not
+                        developed).  The site was written in vanilla PHP with a MySQL database and uses JavaScript for a photo gallery, form validation, and the Google Maps API.
+                    </p>
+                    <p>
+                        The site implements some dynamic features, such as an example social page using PHP and MySQL.
+                    </p>
+                    <p>
+                        You can learn more about the site and view the source code on Github at <a href="https://github.com/ambielecki/biking">github.com/ambielecki/biking</a>
+                    </p>
                 </div>
             </div>
         </div>
     </div>
 </div>
+<br>
 @stop
 
 @section('body')
