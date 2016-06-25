@@ -32,6 +32,11 @@
                 authentication features).  You can visit the site at <a href="https://www.maldenlittleleague.org">www.maldenlittleleague.org</a> or see more details on it's
                 portfolio page along with other projects I've worked on at Harvard Extension.
             </p>
+            <p>
+                Please feel free to contact me with any questions or requests for code sample at <a href="mailto:ambielecki@gmail.com">ambielecki@gmail.com</a>.
+            </p>
+            <p>
+            <a href="/docs/AndrewBielecki.pdf" download>Download a copy of my resume in pdf format <i class="fa fa-file-pdf-o"></i></a>
         </div>
     </div>
     <div class="row">

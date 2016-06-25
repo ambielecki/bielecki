@@ -25,30 +25,34 @@
 
 <div class="jumbotron">
     <div class="container">
-        <h1>Andrew Bielecki</h1>
-        <p>Full Stack Web Developer with skills in HTML, CSS, JavaScript, MySQL, PHP, and the Laravel Framework</p>
+        <a href="/">
+            <h1>Andrew Bielecki</h1>
+            <p>Full Stack Web Developer with skills in HTML, CSS, JavaScript, MySQL, PHP, and the Laravel Framework</p>
+        </a>
     </div>
 </div>
-
+<div class="maincontent">
+    @yield('content')
+</div>
 <footer>
-
-    <div class="container footer">
+    <div class="container-fluid footer_container">
         <div class="row">
-            <div class="col-sm-4" id="footer">
-                &copy; {{date('Y')}} Andrew Bielecki
-            </div>
-            <div class="col-sm-4 text-center">
-                <a href="mailto:ambielecki@gmail.com">ambielecki@gmail.com</a>
-            </div>
-            <div class="col-sm-4 text-right">
-                <a href="https://github.com/ambielecki">Vist me on Github <i class="fa fa-github"></i></a>
+            <div class="container">
+                <div class="row footer">
+                    <div class="col-sm-4 text-center" id="footer">
+                        &copy; {{date('Y')}} Andrew Bielecki
+                    </div>
+                    <div class="col-sm-4 text-center">
+                        <a href="mailto:ambielecki@gmail.com">ambielecki@gmail.com</a>
+                    </div>
+                    <div class="col-sm-4 text-center">
+                        <a href="https://github.com/ambielecki">Vist me on Github <i class="fa fa-github"></i></a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 </footer>
-<div class="maincontent">
-    @yield('content')
-</div>
 
 {{-- Load jquery and bootstrap js --}}
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>

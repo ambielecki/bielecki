@@ -11,4 +11,8 @@ class BieleckiController extends Controller
     public function getHome(){
         return view('bielecki.home');
     }
+
+    public function getMLL(){
+        return view('bielecki.mll');
+    }
 }

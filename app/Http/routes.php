@@ -12,3 +12,4 @@
 */
 
 Route::get('/','BieleckiController@getHome');
+Route::get('/mll','BieleckiController@getMLL');

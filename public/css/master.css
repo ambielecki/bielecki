@@ -13,17 +13,25 @@ footer {
     bottom: 0;
     height: 40px;
     width: 100%;
-    background-color: #038894;
-    color: white;
-    padding: 10px 0;
-}
-footer a{
-    color:white;
 }
 .flashmessage{
     background-color: yellow;
 }
 .jumbotron{
     background-color: #038894;
+    color: white;
+}
+.footer_container{
+    background-color: #038894;
+    color: white;
+}
+.footer_container a{
+    color: white;
+}
+h3 a{
+    color: black;
+}
+
+.jumbotron a {
     color: white;
 }
