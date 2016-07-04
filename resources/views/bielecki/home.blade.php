@@ -72,7 +72,7 @@
                     <p>
                         As part of the class <a href="http://www.extension.harvard.edu/academics/courses/introduction-web-content-management-systems-site-development/24048">
                         DGMD E25, Introduction to Content Management Systems</a>, I created example sites using <a href="http://andrewb.sgedu.site/wp/">
-                        WordPress</a>, <a href="http://andrewb.sgedu.site/joomla/">Joomla</a>, and <a href="http://andrewb.sgedu.site/drupal8/">Drupal</a>.  I chose
+                        WordPress</a>, <a href="http://andrewb.sgedu.site/joomla/">Joomla</a>, and Drupal.  I chose
                         to continue to Little League theme, developing a site focused more on my son's particular team.
                     </p>
                     <p>
