@@ -12,9 +12,6 @@
 </head>
 
 <body>
-<?php
-phpinfo();
-?>
 <div class="container-fluid">
     @if(\Session::has('flash_message'))
         <div class="row flashmessage">
