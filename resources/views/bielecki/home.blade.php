@@ -103,7 +103,7 @@
             <h3>Dive - Log - Repeat</h3>
             <div class="row">
                 <div class="col-sm-3">
-                    <a href="http://divelog.andrewbielecki.me" target="_blank"><img class="img-responsive" src="/images/small/divelog.jpg" alt="Dive Log Repeat"></a>
+                    <a href="http://divelog.andrewbielecki.me" target="_blank"><img class="img-responsive" src="/images/small/Divelog.jpg" alt="Dive Log Repeat"></a>
                 </div>
                 <div class="col-sm-9">
                     <p>
