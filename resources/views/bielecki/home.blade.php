@@ -100,6 +100,26 @@
                     </p>
                 </div>
             </div>
+            <h3>Dive - Log - Repeat</h3>
+            <div class="row">
+                <div class="col-sm-3">
+                    <a href="http://divelog.andrewbielecki.me" target="_blank"><img class="img-responsive" src="/images/small/divelog.jpg" alt="Dive Log Repeat"></a>
+                </div>
+                <div class="col-sm-9">
+                    <p>
+                        My current side project (and definite work in progress) is to finish an idea I had when I first started programming, an online divelog and calculator.
+                        Currently one can create an account, log dives, and make some simple dive calculations.  There's an admin backend to allow for uploading images, editing the
+                        homepage, and even adding some blog content.  Still lots to go (some of the features are still dumping out arrays!), but getting there.
+                    </p>
+                    <p>
+                        The site is built on Laravel 5.4 and I'm using it as a testbed to start playing with VueJS as well as implementing a MongoDB instance to hold page data
+                        (there is also a MySQL DB for standard auth and some other functionality such as tracking image storage locations).
+                    </p>
+                    <p>
+                        You can take a look at the work in progress code at: <a href="https://github.com/ambielecki/divelog">github.com/ambielecki/divelog</a>
+                    </p>
+                </div>
+            </div>
         </div>
     </div>
 </div>
