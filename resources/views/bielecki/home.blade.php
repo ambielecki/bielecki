@@ -12,7 +12,7 @@
     <div class="row">
         <div class="col-sm-12">
             <p>
-                I'm Andrew Bielecki, and aspiring full stack web developer.  I am currently
+                I'm Andrew Bielecki, testing a new server, and aspiring full stack web developer.  I am currently
                 seeking a position as a web developer, focusing on PHP and hopefully working with a framework such as
                 Laravel. I have experience in HTML, JavaScript, MySQL, Oracle, PHP, and the Laravel framework. I have
                 also done some work with CMS's such as WordPress, Joomla, and Drupal.  This will be a significant career
