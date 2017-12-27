@@ -12,25 +12,17 @@
     <div class="row">
         <div class="col-sm-12">
             <p>
-                I'm Andrew Bielecki, and aspiring full stack web developer.  I am currently
-                seeking a position as a web developer, focusing on PHP and hopefully working with a framework such as
-                Laravel. I have experience in HTML, JavaScript, MySQL, Oracle, PHP, and the Laravel framework. I have
-                also done some work with CMS's such as WordPress, Joomla, and Drupal.  This will be a significant career
-                change for me after spending over ten years as a bench scientist in the Biopharmaceutical industry working in
-                small small molecule drug discovery developing High Throughput Screening assays and performing protein purification.
+                Hello, I'm Andrew Bielecki, a full stack web developer with a main focus on PHP.  I have been coding for the past couple of years and have
+                been working full time as a developer since the summer of 2016.  My initial experience was at Purch, in Waltham, MA, helping to maintain
+                TopTenReviews.com and adding new features to both the front end and backend CMS of Business.com.  My current position is at MobileFuse, which
+                is also located in Waltham, working on their internal Dashboard project as well as a new data processing project, both of which are written using
+                the Laravel PHP framework.
             </p>
             <p>
                 I am currently a Master's Degree Candidate at the Harvard Extension School in the their Information Systems
                 program and have already completed their five course Web Development certificate.  Through Harvard Extension
                 I have had the opportunity to be a Teaching Assistant for their course, <a href="http://www.dwa15.com">CSCI E15, Dynamic Web Applications</a>, which focuses
                 on developing sites using the Laravel PHP framework to teach the MVC paradigm.
-            </p>
-            <p>
-                One of my main web development focuses has been the development and management of the site for my son's local Little League (where I'm a also a
-                Board member). This site was developed using the Laravel framework using a MySQL database to manage rosters, scheduling, standings, and a feature
-                to manage pitch counts for all of our players (unfortunately this feature can only be accessed by managers in the league, which was implemented with Laravel's
-                authentication features).  You can visit the site at <a href="https://www.maldenlittleleague.org">www.maldenlittleleague.org</a> or see more details on it's
-                portfolio page along with other projects I've worked on at Harvard Extension.
             </p>
             <p>
                 Please feel free to contact me with any questions or requests for code sample at <a href="mailto:ambielecki@gmail.com">ambielecki@gmail.com</a>.
