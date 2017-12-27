@@ -36,14 +36,15 @@
             <h3>Malden Little League</h3>
             <div class="row">
                 <div class="col-sm-3">
-                    <a href="https://www.maldenlittleleague.org" target="_blank"><img class="img-responsive" src="/images/small/MLLHomePage.jpg" alt="Malden Little League Screenshot"></a>
+                    <img class="img-responsive" src="/images/small/MLLHomePage.jpg" alt="Malden Little League Screenshot">
                 </div>
                 <div class="col-sm-9">
                     <p>
                         The Malden Little League page was created from scratch using the Laravel framework and a MySQL database.  The site has information
                         about the league, schedules, standings, rosters and more available to the general public.  Managers in the league have access to update
                         game scores, enter pitch counts for their players, and view additional information about their players such as parents' phone numbers and
-                        email addresses.
+                        email addresses.  The site is no longer active, as my son has moved to a new league and the current board has moved the league to the Cal
+                        Ripken system.
                     </p>
                     <p>
                         The site was originally developed as a proof of concept project for a class at Harvard Extension school, <a href="http://dwa15.com">

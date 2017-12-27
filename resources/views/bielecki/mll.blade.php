@@ -100,13 +100,6 @@
                         Click to view full size image in a new tab
                     </a>
                 </div>
-                <div class="col-sm-9">
-                    <p>
-                        Standings for the leagues are calculated from just game scores in the database.  All managers have to do is enter scores and results and standings
-                        are automatically calculated.
-                        You can see them at <a href="https://www.maldenlittleleague.org/standings">www.maldenlittleleague.org/standings</a>
-                    </p>
-                </div>
             </div>
         </div>
     </div>
